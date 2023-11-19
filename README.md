@@ -6,3 +6,4 @@
 
 ./sum < input.txt
 
+[https://mywiki.wooledge.org/BashGuide](https://mywiki.wooledge.org/BashGuide) wooledge
